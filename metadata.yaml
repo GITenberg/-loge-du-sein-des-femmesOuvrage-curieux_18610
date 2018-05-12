@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8146'
     url: http://www.gutenberg.org/2009/agents/8146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18610#-loge-du-sein-des-femmesOuvrage-curieux
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2006-06-17'
 gutenberg_type: Text
